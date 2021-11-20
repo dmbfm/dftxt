@@ -18,9 +18,11 @@ This repository holds a small proof-of-concept compiler (still WIP) writen in Zi
 
 Everything else is considered paragraph text. 
 
-Different paragraphs are separated by blank/empy lines. Otherwise they are considered to be in the same paragraph, just like in markdown.
+Different paragraphs are separated by blank/empy lines. Otherwise they are
+considered to be in the same paragraph, just like in markdown.
 
-You can insert links like this: [http://www.danielfortes.com/ | My Website]. I plan to add support to wiki-style links as well [[wiki-link]].
+You can insert links like this: [http://www.danielfortes.com/ | My Website]. 
+I plan to add support to wiki-style links as well [[wiki-link]].
 ```
 sdf
 
